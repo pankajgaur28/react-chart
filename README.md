@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This basic app to render graph (LineChart, AreaChart, Bar, PieChart) from svg and also give the functionality to download uploaded/sample svg file.
 
-Currently, two official plugins are available:
+To run the project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- take checkout of the project from repository $ git clone https://github.com/pankajgaur28/react-chart.git
+- go to project folder $ cd react-chart
+- install dependencies $ npm install (or using other packager manager of your preference)
+- to run it on local run comman $ napm run dev
+- the app will run on http://localhost:5173/
